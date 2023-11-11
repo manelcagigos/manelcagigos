@@ -13,8 +13,6 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
 
 ### 💾 Languages and Tools
 
-<br><br/>
-
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -45,6 +43,7 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
    It was a robot made by me using an arduino and programming it in C languague.
    Then I started my an intermediate education cycle in microcomputer systems and networks (education cycles are a common type of study in Spain), it was a two years period of time in which I learned everything about hardware and software mostly.
    Then when I completed this two years course I started higher degree education cycle in multiplatform application development, and in this cycle is where I started programming software just like in the real job world, mainly focused on .NET programming with Visual Studio and using Microsoft SQL Server for the database.
+</details>
 
 #
 
