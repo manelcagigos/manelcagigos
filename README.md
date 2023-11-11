@@ -38,8 +38,8 @@ You can find my LinkedIn profile here, "<a href="https://www.linkedin.com/in/man
 #
 
 ### 📊 Stats
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manelcagigos&repo=github-readme-stats)
-<!–![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)–>
+
+![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)
           
 # 
 
