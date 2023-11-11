@@ -27,8 +27,10 @@ You can find my linkedin profile here, "[manelcagigos](https://www.linkedin.com/
 <img align="left" alt="DEBIAN" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
+<br><br/>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manelcagigos&layout=compact&langs_count=8&card_width=320" style="margin-left: 20px;"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manelcagigos&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 #
