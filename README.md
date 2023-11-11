@@ -30,7 +30,7 @@ You can find my linkedin profile here, "[manelcagigos](https://www.linkedin.com/
 <br><br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manelcagigos&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manelcagigos&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
 #
