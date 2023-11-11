@@ -35,6 +35,12 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manelcagigos&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
+#
+
+### 📊 Stats
+
+![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)
+
 # 
 
 <details>
@@ -44,10 +50,4 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
    Then I started my an intermediate education cycle in microcomputer systems and networks (education cycles are a common type of study in Spain), it was a two years period of time in which I learned everything about hardware and software mostly.
    Then when I completed this two years course I started higher degree education cycle in multiplatform application development, and in this cycle is where I started programming software just like in the real job world, mainly focused on .NET programming with Visual Studio and using Microsoft SQL Server for the database.
 </details>
-
-#
-
-### 📊 Stats
-
-![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)
 
