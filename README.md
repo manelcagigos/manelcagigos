@@ -3,8 +3,7 @@
 **`Programming and computer science student`**
 
 I'm a computer science student, I have currently finished a higher degree related to the development of multiplatform applications, I am still learning and searching for what I like most about programming.
-You can find my LinkedIn profile here, "[manelcagigos](https://www.linkedin.com/in/manel-cagig%C3%B3s-a2097a226/)", and [GitHub profile](https://github.com/your-github-username).
-
+You can find my LinkedIn profile here, "<a href="https://www.linkedin.com/in/manel-cagig%C3%B3s-a2097a226/" target="_blank">manelcagigos</a>".
 
 ![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
