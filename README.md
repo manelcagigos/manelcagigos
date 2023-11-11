@@ -7,7 +7,7 @@
 I'm a computer science student, I have currently finished a higher degree related to the development of multiplatform applications, I am still learning and searching for what I like most about programming.
 You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.com/in/manel-cagig%C3%B3s/" target="_blank">LinkedIn</a>".
 
-![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![GIF](https://github.com/manelcagigos/manelcagigos/blob/main/mario_programming.gif)
 
 ---
 
