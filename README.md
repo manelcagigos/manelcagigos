@@ -34,7 +34,7 @@ You can find my linkedin profile here, "[manelcagigos](https://www.linkedin.com/
 #
 
 ### 📊 Stats
-[![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)]
+![Manel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manelcagigos&show_icons=true&theme=algolia)
           
 # 
 
