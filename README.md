@@ -9,6 +9,13 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
 
 ![GIF](https://github.com/manelcagigos/manelcagigos/blob/main/mario_programming.gif)
 
+<style>
+    .white-icon {
+        filter: brightness(0) invert(1);
+    }
+</style>
+
+
 ---
 
 ### 💾 Languages and Tools
@@ -25,7 +32,7 @@ You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.co
 <img align="left" alt="OPENSUSE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" />
 <img align="left" alt="DEBIAN" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" class="white-icon" />
 <img align="left" alt="MicrosoftSQLServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="WORDPRESS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
