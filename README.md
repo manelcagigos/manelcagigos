@@ -5,7 +5,7 @@
 **`Programming and computer science student`**
 
 I'm a computer science student, I have currently finished a higher degree related to the development of multiplatform applications, I am still learning and searching for what I like most about programming.
-You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.com/in/manel-cagig%C3%B3s/" target="_blank">LinkedIn</a>".
+You can reach me by my LinkedIn profile, here, "<a href="https://www.linkedin.com/in/manel-cagig%C3%B3s/" target="_blank">LinkedIn Profile</a>".
 
 ![GIF](https://github.com/manelcagigos/manelcagigos/blob/main/mario_programming.gif)
 
